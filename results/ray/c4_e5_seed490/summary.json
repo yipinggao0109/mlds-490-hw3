@@ -1,0 +1,13 @@
+{
+  "evaluation_device": "cpu",
+  "rounds": 100,
+  "clients_per_round": 4,
+  "ray_cpus": 4,
+  "final_train_loss": 2.130956911408735,
+  "final_train_accuracy": 0.44512075397604556,
+  "final_validation_loss": 2.117989234204562,
+  "final_validation_accuracy": 0.44575471698113206,
+  "test_loss": 2.114493019506438,
+  "test_accuracy": 0.45098039215686275,
+  "elapsed_seconds": 226.29667616728693
+}

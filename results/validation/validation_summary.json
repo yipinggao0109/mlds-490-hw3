@@ -1,0 +1,23 @@
+{
+  "measurements": {
+    "weighted_aggregation_max_abs_error": 6.732828328193108e-08,
+    "zero_learning_rate_max_parameter_change": 0.0,
+    "sampling_duplicate_rounds_out_of_2000": 0,
+    "participation_min": 161,
+    "participation_max": 233,
+    "participation_mean": 200.0,
+    "participation_coefficient_of_variation": 0.06812051115782998,
+    "exact_train_test_image_overlap": 18,
+    "exact_train_test_image_overlap_fraction": 0.004971002485501243,
+    "max_laplace_relative_variance_error": 0.004714053124189182
+  },
+  "checks": {
+    "aggregation_error_below_1e-6": true,
+    "zero_lr_is_exactly_unchanged": true,
+    "sampling_has_no_duplicates": true,
+    "participation_cv_below_0.10": true,
+    "provided_data_overlap_below_one_percent": true,
+    "laplace_variance_error_below_0.02": true
+  },
+  "all_checks_passed": true
+}

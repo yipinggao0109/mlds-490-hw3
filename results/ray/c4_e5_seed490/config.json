@@ -1,0 +1,16 @@
+{
+  "rounds": 100,
+  "client_fraction": 0.04,
+  "local_epochs": 5,
+  "learning_rate": 0.05,
+  "batch_size": 64,
+  "momentum": 0.0,
+  "seed": 490,
+  "device": "cpu",
+  "noise_scale": 0.0,
+  "noise_seed": 10490,
+  "clients_per_round": 4,
+  "ray_cpus": 4,
+  "actor_num_cpus": 1,
+  "actor_num_gpus": 0
+}

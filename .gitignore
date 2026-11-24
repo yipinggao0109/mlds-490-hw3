@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.DS_Store
+Assignment3-data/
+mlds_assignment3.pdf
+report/
+**/*.pt
+results/smoke/
+results/hyperparameters/
+results/tuning/

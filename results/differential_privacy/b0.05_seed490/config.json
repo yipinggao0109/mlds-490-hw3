@@ -1,0 +1,12 @@
+{
+  "rounds": 300,
+  "client_fraction": 0.1,
+  "local_epochs": 5,
+  "learning_rate": 0.05,
+  "batch_size": 64,
+  "momentum": 0.0,
+  "seed": 490,
+  "device": "cpu",
+  "noise_scale": 0.05,
+  "noise_seed": 10490
+}

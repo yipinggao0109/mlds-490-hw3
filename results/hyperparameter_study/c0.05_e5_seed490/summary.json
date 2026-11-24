@@ -1,0 +1,12 @@
+{
+  "device": "cpu",
+  "rounds": 100,
+  "clients_per_round": 5,
+  "final_train_loss": 2.0812933777442693,
+  "final_train_accuracy": 0.4498723738464559,
+  "final_validation_loss": 2.0912248191593577,
+  "final_validation_accuracy": 0.45550314465408803,
+  "test_loss": 2.0952078317022234,
+  "test_accuracy": 0.46340789837061586,
+  "elapsed_seconds": 5.6066333330236375
+}

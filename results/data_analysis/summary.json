@@ -1,0 +1,18 @@
+{
+  "clients": 100,
+  "total_local_samples": 31825,
+  "minimum_client_samples": 118,
+  "maximum_client_samples": 393,
+  "mean_client_samples": 318.25,
+  "training_samples_after_split": 25465,
+  "validation_samples_after_split": 6360,
+  "test_samples": 3621,
+  "classes": 62,
+  "selected_clients_for_plot": [
+    0,
+    20,
+    40,
+    60,
+    80
+  ]
+}
